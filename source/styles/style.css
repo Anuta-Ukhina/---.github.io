@@ -1,0 +1,26 @@
+.nav-link{
+    color: rgba(143, 4, 18, 0.754);
+}
+
+.dark-bg{
+    background-color: rgba(55, 55, 55, 0.8);
+}
+
+.navbar-nav .nav-link.active{
+    color: rgb(255, 255, 255);
+}
+
+.navbar-brand img{
+    width: 70px;
+}
+.navbar-toggler{
+    background-color: rgb(87, 9, 9);
+}
+.body-home{
+    background-size: cover;
+    background-image: url(../images/фон.jpg);
+}
+.h1{
+    text-align: center;
+    color: rgb(114, 141, 165);
+}
